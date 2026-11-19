@@ -1,0 +1,20 @@
+ buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath libs.gradle
+    }
+}
+
+plugins {
+    id 'com.android.application' version '9.5.1' apply false
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}

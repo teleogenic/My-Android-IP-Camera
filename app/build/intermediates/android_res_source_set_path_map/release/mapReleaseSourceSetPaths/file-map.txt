@@ -1,0 +1,9 @@
+com.example.ipcamcamerax2.app-pngs-0 C:\Users\stefa\Documents\Android\IPCamCameraX2\app\build\generated\res\pngs\release
+com.example.ipcamcamerax2.app-resValues-1 C:\Users\stefa\Documents\Android\IPCamCameraX2\app\build\generated\res\resValues\release
+com.example.ipcamcamerax2.app-updated_navigation_xml-2 C:\Users\stefa\Documents\Android\IPCamCameraX2\app\build\generated\updated_navigation_xml\release
+com.example.ipcamcamerax2.app-packageReleaseResources-3 C:\Users\stefa\Documents\Android\IPCamCameraX2\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.ipcamcamerax2.app-packageReleaseResources-4 C:\Users\stefa\Documents\Android\IPCamCameraX2\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.ipcamcamerax2.app-release-5 C:\Users\stefa\Documents\Android\IPCamCameraX2\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.ipcamcamerax2.app-main-6 C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\res
+com.example.ipcamcamerax2.app-release-7 C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\release\res
+gradleHome-0 C:\Users\stefa\.gradle
