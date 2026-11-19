@@ -23,9 +23,9 @@
   <artifact
       classOutputs="build\intermediates\javac\release\compileReleaseJavaWithJavac\classes;build\intermediates\compile_and_runtime_r_class_jar\release\processReleaseResources\R.jar"
       type="MAIN"
-      applicationId="com.example.ipcamcamerax"
+      applicationId="com.example.ipcamcamerax2"
       generatedSourceFolders="build\generated\ap_generated_sources\release\out"
       generatedResourceFolders="build\generated\res\resValues\release"
-      desugaredMethodsFiles="C:\Users\stefa\.gradle\caches\9.6.0\transforms\95015262173ba90c951849bbb9413684\transformed\D8BackportedDesugaredMethods.txt">
+      desugaredMethodsFiles="C:\Users\stefa\.gradle\caches\9.9.1\transforms\faa0016a5f211c4138774c1c72cb6404\transformed\D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

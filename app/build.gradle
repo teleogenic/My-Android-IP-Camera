@@ -7,7 +7,7 @@ android {
     namespace "com.example.ipcamcamerax2"
 
     defaultConfig {
-        applicationId "com.example.ipcamcamerax"
+        applicationId "com.example.ipcamcamerax2"
         minSdk 24
         targetSdk 34
         versionCode 1

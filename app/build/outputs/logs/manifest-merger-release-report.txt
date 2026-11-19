@@ -4,51 +4,51 @@ ADDED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidMa
 INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml:1:1-21:12
 INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml:1:1-21:12
 INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml:1:1-21:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e73c0dfeb8bbf60473f5e4d37dc2cb1d\transformed\constraintlayout-2.2.2\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.camera:camera-common:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\079adb4228f10ad7438fdd9b7c603421\transformed\camera-common-1.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.camera:camera-video:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\84f15d4cc857fbf0329193718c4c5704\transformed\camera-video-1.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:17:1-36:12
-MERGED from [androidx.camera:camera-camera2-pipe:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\50ac1b8a0d43139a35f1cc00cf43e7b8\transformed\camera-camera2-pipe-1.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.camera:camera-lifecycle:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e138ec0fdebc0ef1b76afdc5966baefa\transformed\camera-lifecycle-1.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:17:1-36:12
-MERGED from [androidx.camera:camera-view:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\dcfd76a8b722f9baa99c70d8cadf8518\transformed\camera-view-1.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.appcompat:appcompat-resources:1.8.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\0864777544bef926636801ebbeb0709d\transformed\appcompat-resources-1.8.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.appcompat:appcompat:1.8.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bef5593462c8d1ab1fa2b093b1e8f5b1\transformed\appcompat-1.8.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\stefa\.gradle\caches\9.6.0\transforms\73252a40728819a90a74638c4317f5c5\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.8.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\b512e3316c18f8efd9ce567f6b4e9ed4\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e6dc26b858db7c8ceaf04fda7ebbee92\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\890b2c69623e540fbb3c1253ee840b03\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\96b3c86558b3e865b50dd62b3e124291\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\54e795b97c24ddc5c6703f2592dfe5b3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\a94a338d5050091ca03330f073d76aa0\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\7fbb374e186db1f1e6cc41024d77f816\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\b5bdff1e18d5777d3aebf81d8d4f6d93\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\428177ffbe07fc01183eb0f917ea5bcb\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\f5f0d34f340582966a399a768d982ff5\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\a4807fe93a1889e3199e83f897ad17ee\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.camera.viewfinder:viewfinder-core:1.5.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\5c9be8d8fb2c1c1d5e7289229a95ac3c\transformed\viewfinder-core-1.5.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\dad85fd23862b5ad919996c7a016e5d0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\ea65b01208601b5fe7b96e491ae800d7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\7b573bf6ea60e505fc5937df9e905ad1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\10d2a2e3981bf32cab119172783716c2\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\607f1590cd6191d3d1ddf9e4bc002652\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.core:core-backported-fixes:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\f519481f24a042b0444c622f152d0a95\transformed\core-backported-fixes-1.0.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\cdcd025d7cbee14555eaf63b55e4c8d9\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\504846325933d2d4e3b1f537ca6e1a05\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4cbb5159c3b55ae34ced2e94ad4b3810\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\764c3bbc43da782e69e6dd331a5b967a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.camera.featurecombinationquery:featurecombinationquery:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\3dd59bbaed557855877aa3946c4434b1\transformed\featurecombinationquery-1.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.exifinterface:exifinterface:1.4.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\17b508d241d4ba8a6a2de0810f798878\transformed\exifinterface-1.4.2\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\26ccdb0728a78121d985ac1d5ce14f8a\transformed\media3-common-1.9.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.media3:media3-muxer:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\83fa58a8db857e6ebe3f9f5e0e6d8b13\transformed\media3-muxer-1.9.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media3:media3-container:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\de0c927b3f9b2d3e63e7895a85073d76\transformed\media3-container-1.9.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing-ktx:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\020a86c207e889fd26f0577ac2c4592a\transformed\tracing-ktx-1.3.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing-android:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\34ec8baf8cc60d63cc7ac4c1f59ce48d\transformed\tracing\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\fcbef34f68ece55f62b61f7ae388d59f\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\d8ae87b6891d9e008cd1b447182fc948\transformed\constraintlayout-2.2.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.camera:camera-common:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\e97aa6e28ad25ac1b38781e058c832a8\transformed\camera-common-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-video:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\7a3ed7fb210867cd36fb86477934c24d\transformed\camera-video-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-camera2-pipe:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\8a84ac460a48ad060a87f79a790d0382\transformed\camera-camera2-pipe-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\505490511224b5af529a0bc9c9973740\transformed\camera-lifecycle-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-view:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\9083c4c212e35ff775b71f2c278d14d6\transformed\camera-view-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a412b200cbd3750050695aeebb5df9c1\transformed\appcompat-resources-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.8.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b668d9adf6ad55283be267e4bbe07dd4\transformed\appcompat-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\stefa\.gradle\caches\9.9.1\transforms\8c4c80e950ee4709005ec70f984a0e76\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\7e89fb40b7428bf2a5e202fe84f0e898\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\946724b6808bcded4907fec25e378abc\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\0a5901de37a27e2d3025227fe39dde84\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\2cd02e5c9a419d6f3e62bd0e2b07b800\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1fc89ddbd69aa0b11760bda703b679af\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\37236b1c1b47fc1f62c03c743ac934ab\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\121dbfa698d4fcc1a88911352b8929aa\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5222038d192fc46d8d6a58e272cc0364\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\def0ef98d17c56461d762079db6e8324\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\647d478c3442951fb3874e2ab23426d3\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb4170e56cce4ab2ab148b196d461b2d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera.viewfinder:viewfinder-core:1.5.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\77d896c2602163501227a06c8961137b\transformed\viewfinder-core-1.5.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\bdd45e7de1f3d74470b889a8c859a41f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\004c008ad35da24d87a396aceb8374b8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb2c03f70b8bc5f8b298ea7a729fc435\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b5160b18c6432f988de61b6672eb1cd2\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\169b770b33e5dfb07aed25b86d304b4b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.core:core-backported-fixes:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\dcbe2e9fb7f83ba385d5f8e2e2975e12\transformed\core-backported-fixes-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\9f90a89605b99ffa710b0ae78dc614c0\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\440ec7f58bb3e3345c18453f8e8b8599\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\ec91f5ad24221c17ae62233eaff53231\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c0fd344099786654a3be1cb97f993aba\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.camera.featurecombinationquery:featurecombinationquery:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\fc986863b4951039135fd0f0c7306c9b\transformed\featurecombinationquery-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.exifinterface:exifinterface:1.4.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\dced00b2d17fa4a31ca21fa5a6b82a30\transformed\exifinterface-1.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1f9d084da269a3aa730aae54477b777d\transformed\media3-common-1.9.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-muxer:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1200b0786b79ee12fddd566cef51445d\transformed\media3-muxer-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media3:media3-container:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\784eea42b571ccc84501b943561f50d3\transformed\media3-container-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing-ktx:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\d1397687106ba257709342ce3f39438a\transformed\tracing-ktx-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing-android:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1b3b68a457adca483b1476646418ef8e\transformed\tracing\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\550c8574ee35f4d4a1f85e353ee4dfd3\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
 	package
 		ADDED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml:2:5-40
 		INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml
@@ -79,28 +79,28 @@ ADDED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidMa
 application
 ADDED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml:9:5-20:19
 INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml:9:5-20:19
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e73c0dfeb8bbf60473f5e4d37dc2cb1d\transformed\constraintlayout-2.2.2\AndroidManifest.xml:7:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e73c0dfeb8bbf60473f5e4d37dc2cb1d\transformed\constraintlayout-2.2.2\AndroidManifest.xml:7:5-20
-MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:23:5-34:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\504846325933d2d4e3b1f537ca6e1a05\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\504846325933d2d4e3b1f537ca6e1a05\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\764c3bbc43da782e69e6dd331a5b967a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\764c3bbc43da782e69e6dd331a5b967a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\d8ae87b6891d9e008cd1b447182fc948\transformed\constraintlayout-2.2.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\d8ae87b6891d9e008cd1b447182fc948\transformed\constraintlayout-2.2.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\440ec7f58bb3e3345c18453f8e8b8599\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\440ec7f58bb3e3345c18453f8e8b8599\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c0fd344099786654a3be1cb97f993aba\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c0fd344099786654a3be1cb97f993aba\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
@@ -129,209 +129,209 @@ uses-sdk
 INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e73c0dfeb8bbf60473f5e4d37dc2cb1d\transformed\constraintlayout-2.2.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e73c0dfeb8bbf60473f5e4d37dc2cb1d\transformed\constraintlayout-2.2.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-common:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\079adb4228f10ad7438fdd9b7c603421\transformed\camera-common-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-common:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\079adb4228f10ad7438fdd9b7c603421\transformed\camera-common-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-video:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\84f15d4cc857fbf0329193718c4c5704\transformed\camera-video-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-video:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\84f15d4cc857fbf0329193718c4c5704\transformed\camera-video-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-camera2-pipe:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\50ac1b8a0d43139a35f1cc00cf43e7b8\transformed\camera-camera2-pipe-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-camera2-pipe:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\50ac1b8a0d43139a35f1cc00cf43e7b8\transformed\camera-camera2-pipe-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-lifecycle:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e138ec0fdebc0ef1b76afdc5966baefa\transformed\camera-lifecycle-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-lifecycle:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e138ec0fdebc0ef1b76afdc5966baefa\transformed\camera-lifecycle-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.camera:camera-view:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\dcfd76a8b722f9baa99c70d8cadf8518\transformed\camera-view-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera:camera-view:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\dcfd76a8b722f9baa99c70d8cadf8518\transformed\camera-view-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.8.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\0864777544bef926636801ebbeb0709d\transformed\appcompat-resources-1.8.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.8.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\0864777544bef926636801ebbeb0709d\transformed\appcompat-resources-1.8.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.8.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bef5593462c8d1ab1fa2b093b1e8f5b1\transformed\appcompat-1.8.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.8.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bef5593462c8d1ab1fa2b093b1e8f5b1\transformed\appcompat-1.8.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\stefa\.gradle\caches\9.6.0\transforms\73252a40728819a90a74638c4317f5c5\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\stefa\.gradle\caches\9.6.0\transforms\73252a40728819a90a74638c4317f5c5\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.8.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\b512e3316c18f8efd9ce567f6b4e9ed4\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.8.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\b512e3316c18f8efd9ce567f6b4e9ed4\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e6dc26b858db7c8ceaf04fda7ebbee92\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\e6dc26b858db7c8ceaf04fda7ebbee92\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\890b2c69623e540fbb3c1253ee840b03\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\890b2c69623e540fbb3c1253ee840b03\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\96b3c86558b3e865b50dd62b3e124291\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\96b3c86558b3e865b50dd62b3e124291\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\54e795b97c24ddc5c6703f2592dfe5b3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\54e795b97c24ddc5c6703f2592dfe5b3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\a94a338d5050091ca03330f073d76aa0\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\a94a338d5050091ca03330f073d76aa0\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\7fbb374e186db1f1e6cc41024d77f816\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\7fbb374e186db1f1e6cc41024d77f816\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\b5bdff1e18d5777d3aebf81d8d4f6d93\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\b5bdff1e18d5777d3aebf81d8d4f6d93\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\428177ffbe07fc01183eb0f917ea5bcb\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\428177ffbe07fc01183eb0f917ea5bcb\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\f5f0d34f340582966a399a768d982ff5\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\f5f0d34f340582966a399a768d982ff5\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\a4807fe93a1889e3199e83f897ad17ee\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\a4807fe93a1889e3199e83f897ad17ee\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.camera.viewfinder:viewfinder-core:1.5.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\5c9be8d8fb2c1c1d5e7289229a95ac3c\transformed\viewfinder-core-1.5.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera.viewfinder:viewfinder-core:1.5.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\5c9be8d8fb2c1c1d5e7289229a95ac3c\transformed\viewfinder-core-1.5.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\dad85fd23862b5ad919996c7a016e5d0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\dad85fd23862b5ad919996c7a016e5d0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\ea65b01208601b5fe7b96e491ae800d7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\ea65b01208601b5fe7b96e491ae800d7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\7b573bf6ea60e505fc5937df9e905ad1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\7b573bf6ea60e505fc5937df9e905ad1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\10d2a2e3981bf32cab119172783716c2\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\10d2a2e3981bf32cab119172783716c2\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\607f1590cd6191d3d1ddf9e4bc002652\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\607f1590cd6191d3d1ddf9e4bc002652\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.core:core-backported-fixes:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\f519481f24a042b0444c622f152d0a95\transformed\core-backported-fixes-1.0.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-backported-fixes:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\f519481f24a042b0444c622f152d0a95\transformed\core-backported-fixes-1.0.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\cdcd025d7cbee14555eaf63b55e4c8d9\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\cdcd025d7cbee14555eaf63b55e4c8d9\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\504846325933d2d4e3b1f537ca6e1a05\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\504846325933d2d4e3b1f537ca6e1a05\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4cbb5159c3b55ae34ced2e94ad4b3810\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4cbb5159c3b55ae34ced2e94ad4b3810\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\764c3bbc43da782e69e6dd331a5b967a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\764c3bbc43da782e69e6dd331a5b967a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.camera.featurecombinationquery:featurecombinationquery:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\3dd59bbaed557855877aa3946c4434b1\transformed\featurecombinationquery-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.camera.featurecombinationquery:featurecombinationquery:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\3dd59bbaed557855877aa3946c4434b1\transformed\featurecombinationquery-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.4.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\17b508d241d4ba8a6a2de0810f798878\transformed\exifinterface-1.4.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.4.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\17b508d241d4ba8a6a2de0810f798878\transformed\exifinterface-1.4.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\26ccdb0728a78121d985ac1d5ce14f8a\transformed\media3-common-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\26ccdb0728a78121d985ac1d5ce14f8a\transformed\media3-common-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media3:media3-muxer:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\83fa58a8db857e6ebe3f9f5e0e6d8b13\transformed\media3-muxer-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media3:media3-muxer:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\83fa58a8db857e6ebe3f9f5e0e6d8b13\transformed\media3-muxer-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media3:media3-container:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\de0c927b3f9b2d3e63e7895a85073d76\transformed\media3-container-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media3:media3-container:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\de0c927b3f9b2d3e63e7895a85073d76\transformed\media3-container-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing-ktx:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\020a86c207e889fd26f0577ac2c4592a\transformed\tracing-ktx-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing-ktx:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\020a86c207e889fd26f0577ac2c4592a\transformed\tracing-ktx-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing-android:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\34ec8baf8cc60d63cc7ac4c1f59ce48d\transformed\tracing\AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing-android:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\34ec8baf8cc60d63cc7ac4c1f59ce48d\transformed\tracing\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\fcbef34f68ece55f62b61f7ae388d59f\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\fcbef34f68ece55f62b61f7ae388d59f\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\d8ae87b6891d9e008cd1b447182fc948\transformed\constraintlayout-2.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\d8ae87b6891d9e008cd1b447182fc948\transformed\constraintlayout-2.2.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-common:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\e97aa6e28ad25ac1b38781e058c832a8\transformed\camera-common-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-common:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\e97aa6e28ad25ac1b38781e058c832a8\transformed\camera-common-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\7a3ed7fb210867cd36fb86477934c24d\transformed\camera-video-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\7a3ed7fb210867cd36fb86477934c24d\transformed\camera-video-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2-pipe:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\8a84ac460a48ad060a87f79a790d0382\transformed\camera-camera2-pipe-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2-pipe:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\8a84ac460a48ad060a87f79a790d0382\transformed\camera-camera2-pipe-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\505490511224b5af529a0bc9c9973740\transformed\camera-lifecycle-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\505490511224b5af529a0bc9c9973740\transformed\camera-lifecycle-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-view:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\9083c4c212e35ff775b71f2c278d14d6\transformed\camera-view-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\9083c4c212e35ff775b71f2c278d14d6\transformed\camera-view-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a412b200cbd3750050695aeebb5df9c1\transformed\appcompat-resources-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.8.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a412b200cbd3750050695aeebb5df9c1\transformed\appcompat-resources-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b668d9adf6ad55283be267e4bbe07dd4\transformed\appcompat-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.8.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b668d9adf6ad55283be267e4bbe07dd4\transformed\appcompat-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\stefa\.gradle\caches\9.9.1\transforms\8c4c80e950ee4709005ec70f984a0e76\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\stefa\.gradle\caches\9.9.1\transforms\8c4c80e950ee4709005ec70f984a0e76\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\7e89fb40b7428bf2a5e202fe84f0e898\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\7e89fb40b7428bf2a5e202fe84f0e898\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\946724b6808bcded4907fec25e378abc\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\946724b6808bcded4907fec25e378abc\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\0a5901de37a27e2d3025227fe39dde84\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\0a5901de37a27e2d3025227fe39dde84\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\2cd02e5c9a419d6f3e62bd0e2b07b800\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\2cd02e5c9a419d6f3e62bd0e2b07b800\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1fc89ddbd69aa0b11760bda703b679af\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1fc89ddbd69aa0b11760bda703b679af\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\37236b1c1b47fc1f62c03c743ac934ab\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\37236b1c1b47fc1f62c03c743ac934ab\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\121dbfa698d4fcc1a88911352b8929aa\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\121dbfa698d4fcc1a88911352b8929aa\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5222038d192fc46d8d6a58e272cc0364\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5222038d192fc46d8d6a58e272cc0364\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\def0ef98d17c56461d762079db6e8324\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\def0ef98d17c56461d762079db6e8324\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\647d478c3442951fb3874e2ab23426d3\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\647d478c3442951fb3874e2ab23426d3\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb4170e56cce4ab2ab148b196d461b2d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb4170e56cce4ab2ab148b196d461b2d\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera.viewfinder:viewfinder-core:1.5.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\77d896c2602163501227a06c8961137b\transformed\viewfinder-core-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera.viewfinder:viewfinder-core:1.5.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\77d896c2602163501227a06c8961137b\transformed\viewfinder-core-1.5.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\bdd45e7de1f3d74470b889a8c859a41f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\bdd45e7de1f3d74470b889a8c859a41f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\004c008ad35da24d87a396aceb8374b8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\004c008ad35da24d87a396aceb8374b8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb2c03f70b8bc5f8b298ea7a729fc435\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb2c03f70b8bc5f8b298ea7a729fc435\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b5160b18c6432f988de61b6672eb1cd2\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b5160b18c6432f988de61b6672eb1cd2\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\169b770b33e5dfb07aed25b86d304b4b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\169b770b33e5dfb07aed25b86d304b4b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core-backported-fixes:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\dcbe2e9fb7f83ba385d5f8e2e2975e12\transformed\core-backported-fixes-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-backported-fixes:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\dcbe2e9fb7f83ba385d5f8e2e2975e12\transformed\core-backported-fixes-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\9f90a89605b99ffa710b0ae78dc614c0\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\9f90a89605b99ffa710b0ae78dc614c0\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\440ec7f58bb3e3345c18453f8e8b8599\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\440ec7f58bb3e3345c18453f8e8b8599\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\ec91f5ad24221c17ae62233eaff53231\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\ec91f5ad24221c17ae62233eaff53231\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c0fd344099786654a3be1cb97f993aba\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c0fd344099786654a3be1cb97f993aba\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.camera.featurecombinationquery:featurecombinationquery:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\fc986863b4951039135fd0f0c7306c9b\transformed\featurecombinationquery-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera.featurecombinationquery:featurecombinationquery:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\fc986863b4951039135fd0f0c7306c9b\transformed\featurecombinationquery-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.4.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\dced00b2d17fa4a31ca21fa5a6b82a30\transformed\exifinterface-1.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.4.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\dced00b2d17fa4a31ca21fa5a6b82a30\transformed\exifinterface-1.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1f9d084da269a3aa730aae54477b777d\transformed\media3-common-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1f9d084da269a3aa730aae54477b777d\transformed\media3-common-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-muxer:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1200b0786b79ee12fddd566cef51445d\transformed\media3-muxer-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-muxer:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1200b0786b79ee12fddd566cef51445d\transformed\media3-muxer-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\784eea42b571ccc84501b943561f50d3\transformed\media3-container-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media3:media3-container:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\784eea42b571ccc84501b943561f50d3\transformed\media3-container-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\d1397687106ba257709342ce3f39438a\transformed\tracing-ktx-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-ktx:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\d1397687106ba257709342ce3f39438a\transformed\tracing-ktx-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-android:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1b3b68a457adca483b1476646418ef8e\transformed\tracing\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing-android:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1b3b68a457adca483b1476646418ef8e\transformed\tracing\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\550c8574ee35f4d4a1f85e353ee4dfd3\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\550c8574ee35f4d4a1f85e353ee4dfd3\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
 		INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\stefa\Documents\Android\IPCamCameraX2\app\src\main\AndroidManifest.xml
 service#androidx.camera.core.impl.MetadataHolderService
-ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:29:9-33:78
-MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:24:9-33:19
-MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:24:9-33:19
+ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:24:9-33:19
 	android:enabled
-		ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:31:13-36
+		ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:31:13-36
 	android:exported
-		ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:32:13-37
+		ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:32:13-37
 	tools:ignore
-		ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:33:13-75
+		ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:33:13-75
 	android:name
-		ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\AndroidManifest.xml:30:13-75
+		ADDED from [androidx.camera:camera-core:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\AndroidManifest.xml:30:13-75
 meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
-ADDED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:30:13-32:89
+ADDED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:30:13-32:89
 	android:value
-		ADDED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:32:17-86
+		ADDED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:32:17-86
 	android:name
-		ADDED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\AndroidManifest.xml:31:17-103
+		ADDED from [androidx.camera:camera-camera2:1.7.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\AndroidManifest.xml:31:17-103
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\764c3bbc43da782e69e6dd331a5b967a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.6.0\transforms\764c3bbc43da782e69e6dd331a5b967a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c0fd344099786654a3be1cb97f993aba\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c0fd344099786654a3be1cb97f993aba\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
-permission#com.example.ipcamcamerax.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.example.ipcamcamerax2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
-uses-permission#com.example.ipcamcamerax.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.ipcamcamerax2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\26ccdb0728a78121d985ac1d5ce14f8a\transformed\media3-common-1.9.0\AndroidManifest.xml:22:5-79
+ADDED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1f9d084da269a3aa730aae54477b777d\transformed\media3-common-1.9.0\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.6.0\transforms\26ccdb0728a78121d985ac1d5ce14f8a\transformed\media3-common-1.9.0\AndroidManifest.xml:22:22-76
+		ADDED from [androidx.media3:media3-common:1.9.0] C:\Users\stefa\.gradle\caches\9.9.1\transforms\1f9d084da269a3aa730aae54477b777d\transformed\media3-common-1.9.0\AndroidManifest.xml:22:22-76

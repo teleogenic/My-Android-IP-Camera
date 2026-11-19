@@ -1,9 +1,9 @@
 <libraries>
   <library
       name="androidx.appcompat:appcompat-resources:1.8.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\0864777544bef926636801ebbeb0709d\transformed\appcompat-resources-1.8.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\a412b200cbd3750050695aeebb5df9c1\transformed\appcompat-resources-1.8.0\jars\classes.jar"
       resolved="androidx.appcompat:appcompat-resources:1.8.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\0864777544bef926636801ebbeb0709d\transformed\appcompat-resources-1.8.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\a412b200cbd3750050695aeebb5df9c1\transformed\appcompat-resources-1.8.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -14,9 +14,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.appcompat:appcompat:1.8.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\bef5593462c8d1ab1fa2b093b1e8f5b1\transformed\appcompat-1.8.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\b668d9adf6ad55283be267e4bbe07dd4\transformed\appcompat-1.8.0\jars\classes.jar"
       resolved="androidx.appcompat:appcompat:1.8.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\bef5593462c8d1ab1fa2b093b1e8f5b1\transformed\appcompat-1.8.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\b668d9adf6ad55283be267e4bbe07dd4\transformed\appcompat-1.8.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -27,9 +27,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.constraintlayout:constraintlayout:2.2.2@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\e73c0dfeb8bbf60473f5e4d37dc2cb1d\transformed\constraintlayout-2.2.2\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\d8ae87b6891d9e008cd1b447182fc948\transformed\constraintlayout-2.2.2\jars\classes.jar"
       resolved="androidx.constraintlayout:constraintlayout:2.2.2"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\e73c0dfeb8bbf60473f5e4d37dc2cb1d\transformed\constraintlayout-2.2.2"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\d8ae87b6891d9e008cd1b447182fc948\transformed\constraintlayout-2.2.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -40,9 +40,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.camera:camera-common:1.7.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\079adb4228f10ad7438fdd9b7c603421\transformed\camera-common-1.7.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\e97aa6e28ad25ac1b38781e058c832a8\transformed\camera-common-1.7.0\jars\classes.jar"
       resolved="androidx.camera:camera-common:1.7.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\079adb4228f10ad7438fdd9b7c603421\transformed\camera-common-1.7.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\e97aa6e28ad25ac1b38781e058c832a8\transformed\camera-common-1.7.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -53,9 +53,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.camera:camera-video:1.7.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\84f15d4cc857fbf0329193718c4c5704\transformed\camera-video-1.7.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\7a3ed7fb210867cd36fb86477934c24d\transformed\camera-video-1.7.0\jars\classes.jar"
       resolved="androidx.camera:camera-video:1.7.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\84f15d4cc857fbf0329193718c4c5704\transformed\camera-video-1.7.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\7a3ed7fb210867cd36fb86477934c24d\transformed\camera-video-1.7.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -66,9 +66,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.camera:camera-core:1.7.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0\jars\classes.jar"
       resolved="androidx.camera:camera-core:1.7.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\78f560baca7dae90f8e6e3f55fa6afeb\transformed\camera-core-1.7.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\b11e116782594e6caa63b7b70de7084d\transformed\camera-core-1.7.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -79,9 +79,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.camera:camera-view:1.7.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\dcfd76a8b722f9baa99c70d8cadf8518\transformed\camera-view-1.7.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\9083c4c212e35ff775b71f2c278d14d6\transformed\camera-view-1.7.0\jars\classes.jar"
       resolved="androidx.camera:camera-view:1.7.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\dcfd76a8b722f9baa99c70d8cadf8518\transformed\camera-view-1.7.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\9083c4c212e35ff775b71f2c278d14d6\transformed\camera-view-1.7.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -92,9 +92,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.camera:camera-lifecycle:1.7.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\e138ec0fdebc0ef1b76afdc5966baefa\transformed\camera-lifecycle-1.7.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\505490511224b5af529a0bc9c9973740\transformed\camera-lifecycle-1.7.0\jars\classes.jar"
       resolved="androidx.camera:camera-lifecycle:1.7.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\e138ec0fdebc0ef1b76afdc5966baefa\transformed\camera-lifecycle-1.7.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\505490511224b5af529a0bc9c9973740\transformed\camera-lifecycle-1.7.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -105,9 +105,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.camera:camera-camera2:1.7.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0\jars\classes.jar"
       resolved="androidx.camera:camera-camera2:1.7.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\bf704cf67ac8c36024b1dc755ef66791\transformed\camera-camera2-1.7.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\b2c8792a896a557b3f2954d01654ccc3\transformed\camera-camera2-1.7.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -118,9 +118,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.fragment:fragment:1.5.4@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\73252a40728819a90a74638c4317f5c5\transformed\fragment-1.5.4\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\8c4c80e950ee4709005ec70f984a0e76\transformed\fragment-1.5.4\jars\classes.jar"
       resolved="androidx.fragment:fragment:1.5.4"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\73252a40728819a90a74638c4317f5c5\transformed\fragment-1.5.4"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\8c4c80e950ee4709005ec70f984a0e76\transformed\fragment-1.5.4"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -131,9 +131,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.activity:activity:1.8.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\b512e3316c18f8efd9ce567f6b4e9ed4\transformed\activity-1.8.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\7e89fb40b7428bf2a5e202fe84f0e898\transformed\activity-1.8.0\jars\classes.jar"
       resolved="androidx.activity:activity:1.8.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\b512e3316c18f8efd9ce567f6b4e9ed4\transformed\activity-1.8.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\7e89fb40b7428bf2a5e202fe84f0e898\transformed\activity-1.8.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -144,9 +144,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.drawerlayout:drawerlayout:1.0.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\a4807fe93a1889e3199e83f897ad17ee\transformed\drawerlayout-1.0.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb4170e56cce4ab2ab148b196d461b2d\transformed\drawerlayout-1.0.0\jars\classes.jar"
       resolved="androidx.drawerlayout:drawerlayout:1.0.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\a4807fe93a1889e3199e83f897ad17ee\transformed\drawerlayout-1.0.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb4170e56cce4ab2ab148b196d461b2d\transformed\drawerlayout-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -157,9 +157,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.vectordrawable:vectordrawable-animated:1.1.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\dad85fd23862b5ad919996c7a016e5d0\transformed\vectordrawable-animated-1.1.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\bdd45e7de1f3d74470b889a8c859a41f\transformed\vectordrawable-animated-1.1.0\jars\classes.jar"
       resolved="androidx.vectordrawable:vectordrawable-animated:1.1.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\dad85fd23862b5ad919996c7a016e5d0\transformed\vectordrawable-animated-1.1.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\bdd45e7de1f3d74470b889a8c859a41f\transformed\vectordrawable-animated-1.1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -170,9 +170,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.vectordrawable:vectordrawable:1.1.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\ea65b01208601b5fe7b96e491ae800d7\transformed\vectordrawable-1.1.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\004c008ad35da24d87a396aceb8374b8\transformed\vectordrawable-1.1.0\jars\classes.jar"
       resolved="androidx.vectordrawable:vectordrawable:1.1.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\ea65b01208601b5fe7b96e491ae800d7\transformed\vectordrawable-1.1.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\004c008ad35da24d87a396aceb8374b8\transformed\vectordrawable-1.1.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -183,9 +183,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.viewpager:viewpager:1.0.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\7b573bf6ea60e505fc5937df9e905ad1\transformed\viewpager-1.0.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb2c03f70b8bc5f8b298ea7a729fc435\transformed\viewpager-1.0.0\jars\classes.jar"
       resolved="androidx.viewpager:viewpager:1.0.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\7b573bf6ea60e505fc5937df9e905ad1\transformed\viewpager-1.0.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\eb2c03f70b8bc5f8b298ea7a729fc435\transformed\viewpager-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -196,9 +196,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.customview:customview:1.0.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\10d2a2e3981bf32cab119172783716c2\transformed\customview-1.0.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\b5160b18c6432f988de61b6672eb1cd2\transformed\customview-1.0.0\jars\classes.jar"
       resolved="androidx.customview:customview:1.0.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\10d2a2e3981bf32cab119172783716c2\transformed\customview-1.0.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\b5160b18c6432f988de61b6672eb1cd2\transformed\customview-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -209,9 +209,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.core:core-ktx:1.13.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\f5f0d34f340582966a399a768d982ff5\transformed\core-ktx-1.13.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\647d478c3442951fb3874e2ab23426d3\transformed\core-ktx-1.13.0\jars\classes.jar"
       resolved="androidx.core:core-ktx:1.13.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\f5f0d34f340582966a399a768d982ff5\transformed\core-ktx-1.13.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\647d478c3442951fb3874e2ab23426d3\transformed\core-ktx-1.13.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -222,9 +222,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.loader:loader:1.0.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\890b2c69623e540fbb3c1253ee840b03\transformed\loader-1.0.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\0a5901de37a27e2d3025227fe39dde84\transformed\loader-1.0.0\jars\classes.jar"
       resolved="androidx.loader:loader:1.0.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\890b2c69623e540fbb3c1253ee840b03\transformed\loader-1.0.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\0a5901de37a27e2d3025227fe39dde84\transformed\loader-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -235,9 +235,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.core:core:1.13.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0\jars\classes.jar"
       resolved="androidx.core:core:1.13.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\4d5e4ec6438e05cd020a44129402cde3\transformed\core-1.13.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\c9b04a69cbaf093f1dd89778646f69d2\transformed\core-1.13.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -248,9 +248,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-livedata:2.6.2@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\7fbb374e186db1f1e6cc41024d77f816\transformed\lifecycle-livedata-2.6.2\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\121dbfa698d4fcc1a88911352b8929aa\transformed\lifecycle-livedata-2.6.2\jars\classes.jar"
       resolved="androidx.lifecycle:lifecycle-livedata:2.6.2"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\7fbb374e186db1f1e6cc41024d77f816\transformed\lifecycle-livedata-2.6.2"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\121dbfa698d4fcc1a88911352b8929aa\transformed\lifecycle-livedata-2.6.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -261,9 +261,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-viewmodel:2.6.2@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\54e795b97c24ddc5c6703f2592dfe5b3\transformed\lifecycle-viewmodel-2.6.2\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\1fc89ddbd69aa0b11760bda703b679af\transformed\lifecycle-viewmodel-2.6.2\jars\classes.jar"
       resolved="androidx.lifecycle:lifecycle-viewmodel:2.6.2"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\54e795b97c24ddc5c6703f2592dfe5b3\transformed\lifecycle-viewmodel-2.6.2"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\1fc89ddbd69aa0b11760bda703b679af\transformed\lifecycle-viewmodel-2.6.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -274,9 +274,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-runtime:2.6.2@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\b5bdff1e18d5777d3aebf81d8d4f6d93\transformed\lifecycle-runtime-2.6.2\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\5222038d192fc46d8d6a58e272cc0364\transformed\lifecycle-runtime-2.6.2\jars\classes.jar"
       resolved="androidx.lifecycle:lifecycle-runtime:2.6.2"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\b5bdff1e18d5777d3aebf81d8d4f6d93\transformed\lifecycle-runtime-2.6.2"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\5222038d192fc46d8d6a58e272cc0364\transformed\lifecycle-runtime-2.6.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -291,9 +291,9 @@
       resolved="androidx.lifecycle:lifecycle-common:2.6.2"/>
   <library
       name="androidx.lifecycle:lifecycle-livedata-core:2.6.2@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\a94a338d5050091ca03330f073d76aa0\transformed\lifecycle-livedata-core-2.6.2\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\37236b1c1b47fc1f62c03c743ac934ab\transformed\lifecycle-livedata-core-2.6.2\jars\classes.jar"
       resolved="androidx.lifecycle:lifecycle-livedata-core:2.6.2"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\a94a338d5050091ca03330f073d76aa0\transformed\lifecycle-livedata-core-2.6.2"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\37236b1c1b47fc1f62c03c743ac934ab\transformed\lifecycle-livedata-core-2.6.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -304,9 +304,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\428177ffbe07fc01183eb0f917ea5bcb\transformed\lifecycle-viewmodel-savedstate-2.6.2\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\def0ef98d17c56461d762079db6e8324\transformed\lifecycle-viewmodel-savedstate-2.6.2\jars\classes.jar"
       resolved="androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\428177ffbe07fc01183eb0f917ea5bcb\transformed\lifecycle-viewmodel-savedstate-2.6.2"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\def0ef98d17c56461d762079db6e8324\transformed\lifecycle-viewmodel-savedstate-2.6.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -317,9 +317,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.savedstate:savedstate:1.2.1@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\e6dc26b858db7c8ceaf04fda7ebbee92\transformed\savedstate-1.2.1\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\946724b6808bcded4907fec25e378abc\transformed\savedstate-1.2.1\jars\classes.jar"
       resolved="androidx.savedstate:savedstate:1.2.1"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\e6dc26b858db7c8ceaf04fda7ebbee92\transformed\savedstate-1.2.1"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\946724b6808bcded4907fec25e378abc\transformed\savedstate-1.2.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -330,9 +330,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.cursoradapter:cursoradapter:1.0.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\607f1590cd6191d3d1ddf9e4bc002652\transformed\cursoradapter-1.0.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\169b770b33e5dfb07aed25b86d304b4b\transformed\cursoradapter-1.0.0\jars\classes.jar"
       resolved="androidx.cursoradapter:cursoradapter:1.0.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\607f1590cd6191d3d1ddf9e4bc002652\transformed\cursoradapter-1.0.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\169b770b33e5dfb07aed25b86d304b4b\transformed\cursoradapter-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -343,9 +343,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.arch.core:core-runtime:2.2.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\cdcd025d7cbee14555eaf63b55e4c8d9\transformed\core-runtime-2.2.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\9f90a89605b99ffa710b0ae78dc614c0\transformed\core-runtime-2.2.0\jars\classes.jar"
       resolved="androidx.arch.core:core-runtime:2.2.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\cdcd025d7cbee14555eaf63b55e4c8d9\transformed\core-runtime-2.2.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\9f90a89605b99ffa710b0ae78dc614c0\transformed\core-runtime-2.2.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -360,9 +360,9 @@
       resolved="androidx.arch.core:core-common:2.2.0"/>
   <library
       name="androidx.versionedparcelable:versionedparcelable:1.1.1@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\504846325933d2d4e3b1f537ca6e1a05\transformed\versionedparcelable-1.1.1\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\440ec7f58bb3e3345c18453f8e8b8599\transformed\versionedparcelable-1.1.1\jars\classes.jar"
       resolved="androidx.versionedparcelable:versionedparcelable:1.1.1"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\504846325933d2d4e3b1f537ca6e1a05\transformed\versionedparcelable-1.1.1"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\440ec7f58bb3e3345c18453f8e8b8599\transformed\versionedparcelable-1.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -377,9 +377,9 @@
       resolved="androidx.collection:collection-jvm:1.4.2"/>
   <library
       name="androidx.interpolator:interpolator:1.0.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\4cbb5159c3b55ae34ced2e94ad4b3810\transformed\interpolator-1.0.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\ec91f5ad24221c17ae62233eaff53231\transformed\interpolator-1.0.0\jars\classes.jar"
       resolved="androidx.interpolator:interpolator:1.0.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\4cbb5159c3b55ae34ced2e94ad4b3810\transformed\interpolator-1.0.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\ec91f5ad24221c17ae62233eaff53231\transformed\interpolator-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -390,9 +390,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.annotation:annotation-experimental:1.4.1@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\fcbef34f68ece55f62b61f7ae388d59f\transformed\annotation-experimental-1.4.1\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\550c8574ee35f4d4a1f85e353ee4dfd3\transformed\annotation-experimental-1.4.1\jars\classes.jar"
       resolved="androidx.annotation:annotation-experimental:1.4.1"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\fcbef34f68ece55f62b61f7ae388d59f\transformed\annotation-experimental-1.4.1"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\550c8574ee35f4d4a1f85e353ee4dfd3\transformed\annotation-experimental-1.4.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -455,9 +455,9 @@
       resolved="com.google.j2objc:j2objc-annotations:3.0.0"/>
   <library
       name="androidx.camera:camera-camera2-pipe:1.7.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\50ac1b8a0d43139a35f1cc00cf43e7b8\transformed\camera-camera2-pipe-1.7.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\8a84ac460a48ad060a87f79a790d0382\transformed\camera-camera2-pipe-1.7.0\jars\classes.jar"
       resolved="androidx.camera:camera-camera2-pipe:1.7.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\50ac1b8a0d43139a35f1cc00cf43e7b8\transformed\camera-camera2-pipe-1.7.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\8a84ac460a48ad060a87f79a790d0382\transformed\camera-camera2-pipe-1.7.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -468,9 +468,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.emoji2:emoji2-views-helper:1.3.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\96b3c86558b3e865b50dd62b3e124291\transformed\emoji2-views-helper-1.3.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\2cd02e5c9a419d6f3e62bd0e2b07b800\transformed\emoji2-views-helper-1.3.0\jars\classes.jar"
       resolved="androidx.emoji2:emoji2-views-helper:1.3.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\96b3c86558b3e865b50dd62b3e124291\transformed\emoji2-views-helper-1.3.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\2cd02e5c9a419d6f3e62bd0e2b07b800\transformed\emoji2-views-helper-1.3.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -481,9 +481,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.emoji2:emoji2:1.3.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\jars\classes.jar;C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0\jars\libs\repackaged.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\jars\classes.jar;C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0\jars\libs\repackaged.jar"
       resolved="androidx.emoji2:emoji2:1.3.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\655ed8af0324c8e007b001853231f070\transformed\emoji2-1.3.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\c575e54ae1b41040d282c94ae7a2b8f1\transformed\emoji2-1.3.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -494,9 +494,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.lifecycle:lifecycle-process:2.6.2@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2\jars\classes.jar"
       resolved="androidx.lifecycle:lifecycle-process:2.6.2"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\d09496934feaa202c5fea7ffcb6f24ee\transformed\lifecycle-process-2.6.2"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\5714a1f6de661927d027cbcda2b79d40\transformed\lifecycle-process-2.6.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -507,9 +507,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.camera.viewfinder:viewfinder-core:1.5.1@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\5c9be8d8fb2c1c1d5e7289229a95ac3c\transformed\viewfinder-core-1.5.1\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\77d896c2602163501227a06c8961137b\transformed\viewfinder-core-1.5.1\jars\classes.jar"
       resolved="androidx.camera.viewfinder:viewfinder-core:1.5.1"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\5c9be8d8fb2c1c1d5e7289229a95ac3c\transformed\viewfinder-core-1.5.1"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\77d896c2602163501227a06c8961137b\transformed\viewfinder-core-1.5.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -520,9 +520,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.profileinstaller:profileinstaller:1.4.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0\jars\classes.jar"
       resolved="androidx.profileinstaller:profileinstaller:1.4.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\add883a6bd83c8ef3265f04ce40ca341\transformed\profileinstaller-1.4.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\a644fcd61d4a6aad7059d1d822b4c5a9\transformed\profileinstaller-1.4.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -541,9 +541,9 @@
       resolved="androidx.constraintlayout:constraintlayout-core:1.1.2"/>
   <library
       name="androidx.core:core-backported-fixes:1.0.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\f519481f24a042b0444c622f152d0a95\transformed\core-backported-fixes-1.0.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\dcbe2e9fb7f83ba385d5f8e2e2975e12\transformed\core-backported-fixes-1.0.0\jars\classes.jar"
       resolved="androidx.core:core-backported-fixes:1.0.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\f519481f24a042b0444c622f152d0a95\transformed\core-backported-fixes-1.0.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\dcbe2e9fb7f83ba385d5f8e2e2975e12\transformed\core-backported-fixes-1.0.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -562,9 +562,9 @@
       resolved="androidx.concurrent:concurrent-futures:1.1.0"/>
   <library
       name="androidx.startup:startup-runtime:1.1.1@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\764c3bbc43da782e69e6dd331a5b967a\transformed\startup-runtime-1.1.1\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\c0fd344099786654a3be1cb97f993aba\transformed\startup-runtime-1.1.1\jars\classes.jar"
       resolved="androidx.startup:startup-runtime:1.1.1"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\764c3bbc43da782e69e6dd331a5b967a\transformed\startup-runtime-1.1.1"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\c0fd344099786654a3be1cb97f993aba\transformed\startup-runtime-1.1.1"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -575,9 +575,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.camera.featurecombinationquery:featurecombinationquery:1.7.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\3dd59bbaed557855877aa3946c4434b1\transformed\featurecombinationquery-1.7.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\fc986863b4951039135fd0f0c7306c9b\transformed\featurecombinationquery-1.7.0\jars\classes.jar"
       resolved="androidx.camera.featurecombinationquery:featurecombinationquery:1.7.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\3dd59bbaed557855877aa3946c4434b1\transformed\featurecombinationquery-1.7.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\fc986863b4951039135fd0f0c7306c9b\transformed\featurecombinationquery-1.7.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -588,9 +588,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.exifinterface:exifinterface:1.4.2@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\17b508d241d4ba8a6a2de0810f798878\transformed\exifinterface-1.4.2\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\dced00b2d17fa4a31ca21fa5a6b82a30\transformed\exifinterface-1.4.2\jars\classes.jar"
       resolved="androidx.exifinterface:exifinterface:1.4.2"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\17b508d241d4ba8a6a2de0810f798878\transformed\exifinterface-1.4.2"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\dced00b2d17fa4a31ca21fa5a6b82a30\transformed\exifinterface-1.4.2"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -601,9 +601,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.media3:media3-common:1.9.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\26ccdb0728a78121d985ac1d5ce14f8a\transformed\media3-common-1.9.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\1f9d084da269a3aa730aae54477b777d\transformed\media3-common-1.9.0\jars\classes.jar"
       resolved="androidx.media3:media3-common:1.9.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\26ccdb0728a78121d985ac1d5ce14f8a\transformed\media3-common-1.9.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\1f9d084da269a3aa730aae54477b777d\transformed\media3-common-1.9.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -614,9 +614,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.media3:media3-muxer:1.9.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\83fa58a8db857e6ebe3f9f5e0e6d8b13\transformed\media3-muxer-1.9.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\1200b0786b79ee12fddd566cef51445d\transformed\media3-muxer-1.9.0\jars\classes.jar"
       resolved="androidx.media3:media3-muxer:1.9.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\83fa58a8db857e6ebe3f9f5e0e6d8b13\transformed\media3-muxer-1.9.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\1200b0786b79ee12fddd566cef51445d\transformed\media3-muxer-1.9.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -627,9 +627,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.media3:media3-container:1.9.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\de0c927b3f9b2d3e63e7895a85073d76\transformed\media3-container-1.9.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\784eea42b571ccc84501b943561f50d3\transformed\media3-container-1.9.0\jars\classes.jar"
       resolved="androidx.media3:media3-container:1.9.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\de0c927b3f9b2d3e63e7895a85073d76\transformed\media3-container-1.9.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\784eea42b571ccc84501b943561f50d3\transformed\media3-container-1.9.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -640,9 +640,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.tracing:tracing-ktx:1.3.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\020a86c207e889fd26f0577ac2c4592a\transformed\tracing-ktx-1.3.0\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\d1397687106ba257709342ce3f39438a\transformed\tracing-ktx-1.3.0\jars\classes.jar"
       resolved="androidx.tracing:tracing-ktx:1.3.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\020a86c207e889fd26f0577ac2c4592a\transformed\tracing-ktx-1.3.0"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\d1397687106ba257709342ce3f39438a\transformed\tracing-ktx-1.3.0"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -653,9 +653,9 @@
       proguardRules="proguard.txt"/>
   <library
       name="androidx.tracing:tracing-android:1.3.0@aar"
-      jars="C:\Users\stefa\.gradle\caches\9.6.0\transforms\34ec8baf8cc60d63cc7ac4c1f59ce48d\transformed\tracing\jars\classes.jar"
+      jars="C:\Users\stefa\.gradle\caches\9.9.1\transforms\1b3b68a457adca483b1476646418ef8e\transformed\tracing\jars\classes.jar"
       resolved="androidx.tracing:tracing-android:1.3.0"
-      folder="C:\Users\stefa\.gradle\caches\9.6.0\transforms\34ec8baf8cc60d63cc7ac4c1f59ce48d\transformed\tracing"
+      folder="C:\Users\stefa\.gradle\caches\9.9.1\transforms\1b3b68a457adca483b1476646418ef8e\transformed\tracing"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
